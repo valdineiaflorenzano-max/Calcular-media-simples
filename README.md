@@ -1,6 +1,7 @@
 [Calcular_media_simples.py](https://github.com/user-attachments/files/22314821/Calcular_media_simples.py)
 
 # Calcular media simples
+
 """
 Este script solicita ao usuário três notas, calcula a média simples entre elas e exibe o resultado.
 
