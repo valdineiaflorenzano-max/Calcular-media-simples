@@ -1,4 +1,4 @@
-Corrigido
+
 [Calcular_media_simples.py](https://github.com/user-attachments/files/22314821/Calcular_media_simples.py)
 
 # Calcular média simples
